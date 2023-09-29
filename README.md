@@ -27,4 +27,4 @@ It is an application that contains one page. The user searches for GitHub users 
 
 #### github-user-search Page:
 
-<img src="" width="300">
+<img src="https://github.com/NaeemaBsharat/github-user-search/assets/122006025/79c2472d-f8a1-4c1a-bf06-2613dc78bf87" width="300">
