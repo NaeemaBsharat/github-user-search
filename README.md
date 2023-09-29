@@ -9,16 +9,17 @@ It is an application that contains one page. The user searches for GitHub users 
 
 #### Application features:
 
-1- .
+1- The ability to show the number of reposotries for the user being entered.
 
 
- 2- .
+
+ 2- The ability to show the number of followings and followers according to the user he is searching for.
 
 
-3-.
+3- Display some user information such as location twitter account and github account.
 
 
-4- .
+
 
 
 #### THE LINK OF PAGE:
