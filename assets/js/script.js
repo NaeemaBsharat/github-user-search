@@ -17,10 +17,8 @@ const agithub = document.querySelector(".agithub");
 const gitBio = document.querySelector(".gitbio");
 
 
-
-
 let img = document.createElement("img");
-let block = document.querySelector(".imgelement");
+const block = document.querySelector(".imgelement");
 
 
 
@@ -59,7 +57,7 @@ btn.addEventListener("click", function () {
     
     img.src = userData.avatar_url;
     block.appendChild(img);
-    block.style.border = "none";
+ 
 
 
     const createdAt = new Date(userData.created_at);
